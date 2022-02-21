@@ -86,8 +86,8 @@ hr{
 }
 
 .main{
-  border-right: 3px #29ABE2 solid;
-  padding-right: 35px;
+  border-left: 3px #29ABE2 solid;
+  padding-left: 35px;
   height: 90vh;
   width: 85vw;
   vertical-align: left;
