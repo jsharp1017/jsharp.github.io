@@ -85,7 +85,7 @@ hr{
   font-weight: 400;
 }
 
-.v1{
+.main{
   border-right: 3px #29ABE2 solid;
   padding-right: 35px;
   height: 90vh;
@@ -93,7 +93,7 @@ hr{
   vertical-align: baseline;
 }
 
-.ba{
+.a{
   position: absolute;
    bottom: 10vh;
    width: 85vw;
