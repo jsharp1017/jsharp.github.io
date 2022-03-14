@@ -14,24 +14,25 @@ body{
 p{
   font-weight: normal;
   font-family: 'montserrat';
-  font-size: 12px;
+  font-size: 18px;
 }
 
 h1{
   font-size: 36px;
   font-weight: 200;
-  margin: 10px;
+  font-weight: bold;
 }
 
 h2{
   font-size: 24px;
   font-weight: 200;
-  margin: 10px;
+  font-weight: bold;
 }
 
 h3{
   font-size: 18px;
   font-weight: 200;
+  font-weight: bold;
 }
 
 h4{
@@ -178,7 +179,7 @@ a:hover{
   .content4 h1 {
     font-size: 2rem;
     text-align: left;
-    padding: 0px 0px 0px 0px;
+    margin: 10px
   }
 
   .content2 p {
