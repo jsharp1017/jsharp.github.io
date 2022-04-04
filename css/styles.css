@@ -273,3 +273,20 @@ a:hover{
   }
 
 }
+
+/* Button */
+
+button {
+    transition: all 300ms ease-in-out;
+    font-size: 20px
+}
+
+.was-clicked {
+    color: blue
+}
+
+/* Background Image */
+
+.backgroundImage {
+  width: 400px
+}
